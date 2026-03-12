@@ -21,6 +21,7 @@ SELECT
     current_stage_id,
     status,
     created_at,
+    closed_at,
     last_stage_changed_at,
     amount,
     currency,

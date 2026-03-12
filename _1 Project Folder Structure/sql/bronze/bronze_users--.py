@@ -17,6 +17,7 @@ SELECT
     user_id,
     account_id,
     full_name,
+    email,
     job_role,
     user_status,
     created_at,
